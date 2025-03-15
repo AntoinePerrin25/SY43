@@ -1,12 +1,14 @@
 # SY43 TD 1 Kotlin Introduction
 
-## Source code :
+### Source code :
 
-- Entire source code is available at : github.com/AntoinePerrin25/
+- Entire source code is available at : [github.com/AntoinePerrin25/SY43](https://github.com/AntoinePerrin25/SY43/tree/master/TD1)
 
+
+## The program
 
 - When starting the program, the menu appears and if you enter a wrong choice, it appears again :
-## Adding books
+### Adding books
 - Let's first add 3 books, 2 with name "Harry Potter", but a slightly different author, and another one completely different :
 
 
@@ -28,27 +30,27 @@
 
 </div>
 
-## Searching by author and title
+### Searching by author and title
 
 <div style='display: flex;'>
 
 <div style='flex: 1; padding: 10px;'>
 
-### By title :
+#### By title :
 ![alt text](image.png)
 
 </div>
 
 <div style='flex: 1; padding: 10px;'>
 
-### By author :
+#### By author :
 ![alt text](image-1.png)
 
 </div>
 
 </div>
 
-## Borrowing a book
+### Borrowing a book
 - Let's try to borrow a book, and let's try to borrow it again
 
 <div style='display: flex;'>
@@ -69,14 +71,14 @@ Error, already borrowed
 
 </div> 
 
-## Displaying available books
+### Displaying available books
 
 ![alt text](image-4.png)
 
-## Returning a book
+### Returning a book
 
 ![alt text](image-5.png)
 
-## Exiting the program
+### Exiting the program
 
 ![alt text](image-7.png)
